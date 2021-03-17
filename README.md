@@ -1,8 +1,6 @@
-- 👋 Hi, We are @CSBCTF
-- 👀 We are a company with interest in Cyber Security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, We are @CSBCTF
+-
+
 
 <!---
 CSBCTF/CSBCTF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
