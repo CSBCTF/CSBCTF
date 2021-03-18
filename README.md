@@ -1,5 +1,5 @@
-- Hi, We are @CSBCTF
--
+- Hi, We are @CSBCTF 
+- This page is dedicated to Cyber Security Brunei Capture The Flag
 
 
 <!---
